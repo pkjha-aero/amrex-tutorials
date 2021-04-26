@@ -1,0 +1,7 @@
+nsteps = 100 # integer
+nsteps = 1000 # nsteps appears a second time
+dt = 0.03 # floating point number
+ncells = 128 64 32 # a list of 3 ints
+xrange = -0.5 0.5 # a list of 2 reals
+title = "Three Kingdoms" # a string
+hydro.cfl = 0.8 # with prefix, hydro
